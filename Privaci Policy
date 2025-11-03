@@ -1,0 +1,155 @@
+# Privacy Policy for FinaGo
+
+**Last Updated: [Current Date]**
+
+## Introduction
+
+FinaGo  is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application FinaGo. Please read this privacy policy carefully.
+
+## Information We Collect
+
+### Personal Information You Provide
+- **Financial Data**: Transaction records, asset information, debt details, budget categories, and financial goals that you manually enter into the app
+- **Photos**: Receipt images when you use our AI-powered receipt scanner feature
+- **Group Information**: When using Spleet feature, we collect group names, member information, and shared expense data
+
+### Automatically Collected Information
+- **Device Information**: Device model, operating system version, unique device identifiers, mobile network information
+- **Usage Data**: App usage patterns, feature interactions, crash reports, and performance analytics
+- **Location Data**: We do not collect precise location data, but may derive general location from IP address for currency localization
+
+### Information from Third Parties
+- **Advertising Partners**: Our advertising partners may collect information about your device and usage patterns to serve relevant ads
+- **AI Services**: When using our educational AI assistant, your questions are processed by third-party AI services
+
+## How We Use Your Information
+
+### Primary Uses
+- **Core Functionality**: Process and store your financial data locally on your device
+- **Feature Enhancement**: Improve receipt scanning accuracy and AI assistant responses
+- **Expense Splitting**: Enable Spleet functionality for group expense management
+- **Goal Tracking**: Monitor progress toward your financial objectives
+
+### Analytics and Improvement
+- **App Performance**: Analyze usage patterns to improve app functionality and user experience
+- **Feature Development**: Understand which features are most valuable to users
+- **Bug Fixes**: Identify and resolve technical issues
+
+### Advertising
+- **Personalized Ads**: Display relevant advertisements based on general usage patterns
+- **Ad Performance**: Measure ad effectiveness and optimize ad placement
+
+## Data Storage and Security
+
+### Local Storage
+- **Primary Storage**: All your financial data is stored locally on your device using secure Android storage mechanisms
+- **Encryption**: Sensitive financial information is encrypted using industry-standard encryption methods
+- **No Cloud Backup**: We do not automatically upload your financial data to cloud servers
+
+### Data Security Measures
+- **Device Security**: Data protection relies on your device's built-in security features
+- **App Security**: Implementation of secure coding practices and regular security updates
+- **Access Control**: Only you have access to your financial data through the app
+
+## Information Sharing and Disclosure
+
+### We Do Not Sell Personal Information
+We do not sell, trade, or rent your personal financial information to third parties.
+
+### Limited Sharing Scenarios
+- **Advertising Partners**: Anonymous usage data and device identifiers for ad personalization (Google AdMob, Meta Audience Network)
+- **AI Processing**: Educational questions sent to AI services for generating responses (data is not stored by AI providers)
+- **Legal Requirements**: If required by law, court order, or government request
+- **Business Transfers**: In case of merger, acquisition, or sale of assets (users will be notified)
+
+### Spleet Data Sharing
+- **Group Members**: When using Spleet, expense and payment information is shared with other group members
+- **User Consent**: You explicitly consent to sharing when creating or joining groups
+
+## Third-Party Services
+
+### Advertising Networks
+- **Google AdMob**: Serves banner and rewarded ads, collects device and usage data
+- **Meta Audience Network**: Provides additional ad inventory through mediation
+- **Privacy Policies**: [Google AdMob Privacy Policy](https://policies.google.com/privacy), [Meta Privacy Policy](https://www.facebook.com/privacy/policy)
+
+### AI Services
+- **Educational Assistant**: Third-party AI providers process your questions to generate educational responses
+- **Data Handling**: AI queries are processed but not stored for training purposes
+
+### Analytics Services
+- **Firebase Analytics**: Collects anonymous usage statistics and crash reports
+- **Google Play Services**: Device and performance data for app optimization
+
+## Your Privacy Rights
+
+### Data Access and Control
+- **View Data**: Access all your financial data within the app
+- **Export Data**: Export your financial records for personal use
+- **Delete Data**: Remove individual transactions, assets, or entire data sets
+- **App Uninstall**: Completely removes all data from your device
+
+### Advertising Controls
+- **Ad Personalization**: Disable ad personalization in device settings
+- **Ad Tracking**: Opt out of ad tracking through device privacy settings
+- **Rewarded Ads**: Choose whether to watch rewarded ads for premium features
+
+### Communication Preferences
+- **App Notifications**: Control notification settings within the app
+- **Marketing Communications**: We do not send marketing emails or messages
+
+## Children's Privacy
+
+FinaGo is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us to have this information removed.
+
+## International Data Transfers
+
+If you are located outside the country where our servers are hosted, your information may be transferred to, stored, and processed in countries with different privacy laws. We ensure appropriate safeguards are in place for such transfers.
+
+## Data Retention
+
+### Financial Data
+- **Local Storage**: Data remains on your device until you delete it or uninstall the app
+- **No Server Storage**: We do not retain your financial data on our servers
+
+### Analytics Data
+- **Usage Statistics**: Anonymous usage data retained for up to 26 months
+- **Crash Reports**: Technical diagnostic data retained for up to 12 months
+
+### Advertising Data
+- **Ad Interaction Data**: Retained according to advertising partner policies (typically 13-26 months)
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically to reflect changes in our practices or applicable laws. We will notify you of any material changes by:
+- **In-App Notification**: Alert within the app about policy updates
+- **App Store Updates**: Include privacy policy changes in app update descriptions
+- **Website Posting**: Updated policy will be available on our website
+
+## Contact Information
+
+If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+
+- **Email**: privacy@FinaGo.app
+- **In-App Contact**: Settings → About → Privacy Policy → Contact Us
+- **Mailing Address**: [Your Business Address]
+
+## Compliance and Legal Framework
+
+This Privacy Policy complies with:
+- **Google Play Developer Policy**
+- **Android Privacy Guidelines**
+- **General Data Protection Regulation (GDPR)** for EU users
+- **California Consumer Privacy Act (CCPA)** for California residents
+- **Children's Online Privacy Protection Act (COPPA)**
+
+## Consent
+
+By using FinaGo, you consent to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use our app.
+
+---
+
+**FinaGo Privacy Policy v1.1**  
+*Effective Date: [Insert Date]*
+
+*This privacy policy was last updated on [Insert Date] and is effective immediately.*
